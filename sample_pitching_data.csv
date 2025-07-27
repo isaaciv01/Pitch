@@ -1,0 +1,21 @@
+pitcher_name,team,opponent,date,innings_pitched,hits,runs,earned_runs,walks,strikeouts,home_runs,pitches_thrown,strikes,balls,era,whip
+Jacob deGrom,New York Mets,Washington Nationals,2023-04-15,7.0,3,1,1,2,12,0,98,72,26,1.29,0.71
+Gerrit Cole,New York Yankees,Boston Red Sox,2023-04-16,6.2,5,2,2,1,9,1,105,78,27,2.70,0.90
+Max Scherzer,New York Mets,Atlanta Braves,2023-04-17,6.0,4,2,2,3,8,1,95,65,30,3.00,1.17
+Shohei Ohtani,Los Angeles Angels,Texas Rangers,2023-04-18,8.0,2,0,0,1,13,0,110,85,25,0.00,0.38
+Corbin Burnes,Milwaukee Brewers,Chicago Cubs,2023-04-19,7.0,4,1,1,2,11,0,102,75,27,1.29,0.86
+Zac Gallen,Arizona Diamondbacks,San Diego Padres,2023-04-20,6.1,5,3,3,2,7,1,98,68,30,4.26,1.12
+Spencer Strider,Atlanta Braves,Philadelphia Phillies,2023-04-21,6.0,3,1,1,4,10,0,96,62,34,1.50,1.17
+Dylan Cease,Chicago White Sox,Cleveland Guardians,2023-04-22,5.2,6,4,4,3,8,2,94,60,34,6.35,1.59
+Aaron Nola,Philadelphia Phillies,Miami Marlins,2023-04-23,7.0,4,2,2,1,9,1,99,72,27,2.57,0.71
+Justin Verlander,Houston Astros,Seattle Mariners,2023-04-24,6.0,5,3,3,2,6,1,92,65,27,4.50,1.17
+Clayton Kershaw,Los Angeles Dodgers,San Francisco Giants,2023-04-25,7.0,3,1,1,1,8,0,95,70,25,1.29,0.57
+Yu Darvish,San Diego Padres,Colorado Rockies,2023-04-26,6.1,6,4,4,2,7,2,98,68,30,5.68,1.29
+Luis Castillo,Seattle Mariners,Oakland Athletics,2023-04-27,7.0,4,2,2,1,9,1,101,75,26,2.57,0.71
+Framber Valdez,Houston Astros,Tampa Bay Rays,2023-04-28,6.2,5,3,3,3,8,1,97,68,29,4.05,1.20
+Kevin Gausman,Toronto Blue Jays,Baltimore Orioles,2023-04-29,6.0,4,2,2,2,10,1,96,70,26,3.00,1.00
+Blake Snell,San Diego Padres,Los Angeles Dodgers,2023-04-30,5.1,5,4,4,4,7,2,94,62,32,6.75,1.69
+Mitch Keller,Pittsburgh Pirates,Cincinnati Reds,2023-05-01,7.0,3,1,1,1,8,0,98,72,26,1.29,0.57
+Kyle Gibson,Baltimore Orioles,Detroit Tigers,2023-05-02,6.0,5,3,3,2,6,1,92,65,27,4.50,1.17
+Tyler Glasnow,Tampa Bay Rays,New York Yankees,2023-05-03,6.2,4,2,2,3,9,1,99,69,30,2.70,1.05
+Lance Lynn,Chicago White Sox,Kansas City Royals,2023-05-04,5.0,7,5,5,2,5,2,88,58,30,9.00,1.80
